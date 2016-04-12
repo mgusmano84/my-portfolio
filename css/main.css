@@ -1,5 +1,32 @@
 
 #stack {width: 113px;}
 
+#inputt {background-color: blue;
+			
+}
 
+@media (min-width: 100px){
+
+.content-section {padding-top: 100px;}
+
+}
+
+label {margin-bottom: 40px;
+}
+
+.pics {height: 40%;
+	width: 40%;
+}
+
+.auth-image {height: 20%;
+		width: 20%;
+		float: left;
+		margin-right: 10px;
+		margin-left: -60px;
+}
+
+.sidebar {clear: both;}
+
+p {font-size: 20px;
+}
 
